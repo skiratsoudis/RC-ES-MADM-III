@@ -3,7 +3,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20772360.svg)](https://doi.org/10.5281/zenodo.20772360)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![R](https://img.shields.io/badge/R-software-blue)
-![Status](https://img.shields.io/badge/status-research%20software-lightgrey)
 
 **RC-ES MADM III** is a reliability-aware, entropy-based multi-attribute decision-support framework developed to support robust ranking, consensus-aware evaluation, rank-stability analysis, alternative-distinction diagnostics, and scenario-weighted decision reliability assessment.
 
