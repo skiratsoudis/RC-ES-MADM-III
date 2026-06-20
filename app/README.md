@@ -7,7 +7,7 @@ The application provides an interactive decision-support environment for loading
 ## Main file
 
 ```text
-RC_ES_MADM_III_Decision_Studio_V.1.0.0.R
+app.R
 ```
 
 ## Main functions of the application
